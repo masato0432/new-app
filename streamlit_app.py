@@ -2,7 +2,7 @@ from datetime import datetime
 
 def get_weekday_of_birthday():
     # ユーザーに誕生日を入力してもらう
-    birthday_input = input("誕生日を入力してください（YYYY-MM-DD形式）: ")
+    birthday_input = input("誕生日を入力してくだちゃい（YYYY-MM-DD形式）: ")
 
     try:
         # 入力された文字列をdatetimeオブジェクトに変換
